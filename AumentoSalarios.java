@@ -40,7 +40,7 @@ public class App {
 /*
     PROBLEMA: 
     Em uma empresa acontecerá um aumento no salário de seus funcionários, entretando,
-    apenas funcionario com salários PAR poderão receber esse aumento, deve-se então:
+    apenas funcionários com salários PAR poderão receber esse aumento, deve-se então:
     - apesentar o salário de todos funcionários antes da mudança. 
     - dobrar seus salários para um aumento experimental. -> map
     - identificar os pares e os impares e aplicar devidamento o aumento. -> filter
