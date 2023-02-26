@@ -14,8 +14,8 @@ Instruções:
  Em uma empresa acontecerá um aumento nos salários de seus funcionários, entretanto,
  apenas funcionários com salários PAR poderão receber esse aumento, deve-se então:
  
-   - apesentar os salários de todos funcionários antes da mudança. 
+   - apresentar os salários de todos funcionários antes da mudança. 
    - dobrar os salários de todos para um aumento experimental. -> map
-   - identificar os pares e os impares e aplicar devidamente o aumento APENAS aos pares. -> filter
+   - identificar os pares e os ímpares e aplicar devidamente o aumento APENAS aos pares. -> filter
    - depois informe, já com os novos valores, a média aritmética salarial de quem terá seu salário aumentado. -> reduce
    - por último, deve ser informado o valor total que a empresa pagará em novos salários, contabilizando apenas os PARES.
