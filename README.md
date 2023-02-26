@@ -11,7 +11,7 @@ Instruções:
 
 - Problema escolhido
 
- Em uma empresa acontecerá um aumento nos salários de seus funcionários, entretando,
+ Em uma empresa acontecerá um aumento nos salários de seus funcionários, entretanto,
  apenas funcionários com salários PAR poderão receber esse aumento, deve-se então:
  
    - apesentar os salários de todos funcionários antes da mudança. 
