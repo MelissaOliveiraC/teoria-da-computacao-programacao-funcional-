@@ -16,6 +16,6 @@ Instruções:
  
    - apesentar os salários de todos funcionários antes da mudança. 
    - dobrar os salários de todos para um aumento experimental. -> map
-   - identificar os pares e os impares e aplicar devidamento o aumento APENAS aos pares. -> filter
-   - depois informe, já com os novos valores, a média aritmética salárial de quem terá seu salário aumentado. -> reduce
+   - identificar os pares e os impares e aplicar devidamente o aumento APENAS aos pares. -> filter
+   - depois informe, já com os novos valores, a média aritmética salarial de quem terá seu salário aumentado. -> reduce
    - por último, deve ser informado o valor total que a empresa pagará em novos salários, contabilizando apenas os PARES.
