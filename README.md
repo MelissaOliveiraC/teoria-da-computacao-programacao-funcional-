@@ -9,7 +9,7 @@ Instruções:
 - Escolha a linguagem de sua preferência. Não é preciso utilizar obrigatoriamente uma linguagem de programação funcional. Basta uma linguagem que dê suporte ao que foi pedido e caso não tenha, você pode implementar estes conceitos. Linguagens atuais como Java8+, C#, Javascript, Python, Go ou PHP possuem total suporte à funções lambda e ao map, filter e reduce.
 - Escolha o problema que quiser resolver. A ideia é mostrar um pequeno problema e sua solução utilizando programação imperativa (procedural ou orientada a objetos). A partir disso, apresentar uma solução utilizando conceitos funcionais.
 
-- Problema escolhido
+### Problema escolhido
 
  Em uma empresa acontecerá um aumento nos salários de seus funcionários, entretanto,
  apenas funcionários com salários PAR poderão receber esse aumento, deve-se então:
